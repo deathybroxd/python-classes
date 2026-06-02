@@ -31,4 +31,4 @@ if __name__ == "__main__":
     print(Bank_Account.is_valid_deposit(-10))   # False
 
     # static method on the class method:
-    print(acc2.is_valid_deposit(67)) # true
+    print(acc2.is_valid_deposit(67)) # truee
